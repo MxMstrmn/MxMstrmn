@@ -1,6 +1,6 @@
-### Hi Leon 👋
+### Hi, I'm Leon 👋
 
-I'm an PhD student at Helmholtz Munich and TUM focus. 
+I'm an PhD student at Helmholtz Munich and TUM, focussing on genertive models and their applications in single-cell biology and drug discovery. 
 <!--
 If you are looking for opportunities for a position as PhD student, postdoc, research engineer, research assistant, or an internship, Bachelor or Master’s thesis, have a look at my past work and student projects and ping me if you’re interested in working with me.
 
