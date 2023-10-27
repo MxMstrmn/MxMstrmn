@@ -2,7 +2,7 @@
 
 I'm an PhD student at the [Theislab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab) (Helmholtz Munich) and the [DAML](https://www.cs.cit.tum.de/daml/startseite/) group (TUM), focussing on genertive models and their applications in single-cell biology and drug discovery. 
 
-I firmly believe in the importance of introducing young learners to contemporary computer science topics from an early age. At [KI macht Schule](https://ki-macht-schule.de), we teach pupils the core concepts of machine learning and provide teachers with modern teaching software.
+I firmly believe in the importance of introducing young learners to contemporary computer science topics from an early age. At [KI macht Schule](https://ki-macht-schule.de), we teach pupils the core concepts of ML and provide teachers with modern teaching software.
 
 
 
