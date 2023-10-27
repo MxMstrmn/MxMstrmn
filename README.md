@@ -6,7 +6,7 @@ I firmly believe in the importance of introducing young learners to contemporary
 
 
 
-- 👩‍🔬 Interested in my research? Have a look at [mxmstrmn.github.io](mxmstrmn.github.io) or my [google scholar profile](https://scholar.google.de/citations?user=GoOPjt4AAAAJ&hl=en).
+- 👩‍🔬 Interested in my research? Have a look at [mxmstrmn.github.io](https://mxmstrmn.github.io) or my [google scholar profile](https://scholar.google.de/citations?user=GoOPjt4AAAAJ&hl=en).
 - 🧑‍🏫 Check out how we teach ML & AI to highschool students at [KI macht Schule](https://ki-macht-schule.de).
 - 🐦 Follow me on twitter: @leon_het
 
