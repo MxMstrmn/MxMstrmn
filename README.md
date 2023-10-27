@@ -1,18 +1,14 @@
 ### Hi, I'm Leon 👋
 
-I'm an PhD student at Helmholtz Munich and TUM, focussing on genertive models and their applications in single-cell biology and drug discovery. 
-<!--
-If you are looking for opportunities for a position as PhD student, postdoc, research engineer, research assistant, or an internship, Bachelor or Master’s thesis, have a look at my past work and student projects and ping me if you’re interested in working with me.
+I'm an PhD student at the [Theislab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab) (Helmholtz Munich) and the [DAML](https://www.cs.cit.tum.de/daml/startseite/) group (TUM), focussing on genertive models and their applications in single-cell biology and drug discovery. 
 
-Interested in AI communication? I am also co-founder of KI macht Schule, a non-profit organization teaching ML basics to high-school students. We provide teachers with modern teaching software and are the first German company to offer fully German-hosted LLMs for education purposes.
+I firmly believe in the importance of introducing young learners to contemporary computer science topics from an early age. At [KI macht Schule](https://ki-macht-schule.de), we teach pupils the fundamental concepts of machine learning and provide teachers with modern teaching software.
 
-I am also co-founder and CTO of Kinematik AI, a company offering customized machine vision and multi-modal learning systems.
 
-🧑‍🎓 Interested in my research? Have a look at stes.io or my google scholar profile.
-🦓 Check out cebra, our new representation learning algorithm to obtain embeddings of jointly recorded behavioral & neural data.
-🎒 Check out how we teach ML & AI to highschool students at KI macht Schule.
-🐦 Follow me on twitter: @leon_het
--->
+
+- 👩‍🔬 Interested in my research? Have a look at [mxmstrmn.github.io](mxmstrmn.github.io) or my [google scholar profile](https://scholar.google.de/citations?user=GoOPjt4AAAAJ&hl=en).
+- 🧑‍🏫 Check out how we teach ML & AI to highschool students at [KI macht Schule](https://ki-macht-schule.de).
+- 🐦 Follow me on twitter: @leon_het
 
 <!--
 **MxMstrmn/MxMstrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
